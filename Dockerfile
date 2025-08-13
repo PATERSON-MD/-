@@ -1,7 +1,7 @@
 FROM node:lts-buster
 
 # Clone the repository into /root/PATERSON
-RUN git clone https://github.com/PATERSON-MD/PATERSON.git /root/PATERSON
+RUN git clone https://github.com/kervensaubourg/PATERSON.git /root/PATERSON
 
 # Set working directory
 WORKDIR /root/PATERSON
