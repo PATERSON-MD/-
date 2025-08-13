@@ -1,19 +1,19 @@
 
-# DELTA-MD-V1 WhatsApp Bot 💙💠
+# PATERSON WhatsApp Bot 💙💠
 
-![Bot Image](https://files.catbox.moe/0go0uy.jpg)
+![Bot Image](https://i.ibb.co/Mx4v92Dr/malvin-xd.jpg)
 
-**Simple and Best WhatsApp Bot Created by [SIR FRONTIER](https://github.com/Frontier-Lord200)**
+**Simple and Best WhatsApp Bot Created by [Aubourg kervens](https://github.com/PATERSON-MD)**
 
 ## 🔗 Repository
 
-[![Fork the Repo](https://img.shields.io/badge/Fork%20Repo-blue?style=for-the-badge)](https://github.com/Frontier-Lord200/DELTA-MD-V1/fork)
+[![Fork the Repo](https://i.ibb.co/qMxK96PS/malvin-xd.jpg)](https://github.com/PATERSON-MD/PATERSON/fork)
 
 ## 🔑 Get Session ID
 
 Generate your session ID for deployment:
 
-[![Get Pair Code](https://img.shields.io/badge/%F0%9F%9A%80%20GET%20PAIR%20CODE%20WEB-ffcc00?style=for-the-badge)](https://delta-md-pair.onrender.com/pair)
+[![Get Pair Code](https://i.ibb.co/cK4k5QNc/malvin-xd.jpg](https://PATERSON.pair.onrender.com/pair)
 
 ## ⚙️ Setup Guide
 
@@ -23,7 +23,7 @@ Generate your session ID for deployment:
 
 ## 🚀 Deployment Options
 
-- [![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Frontier-Lord200/DELTA-MD-V1)  
+- [![Deploy on Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/PATERSOND/PATERSON)  
   [Create a Heroku Account](https://signup.heroku.com/) if you don't have one.
   
   **📺 Heroku Deployment Tutorial:**  
@@ -53,4 +53,4 @@ Stay updated by joining our official WhatsApp channel:
 
 ## 🙏 Thank You!
 
-**Developed by [SIR FRONTIER](https://github.com/Frontier-Lord200)**
+**Developed by [Kervens Aubourg](https://github.com/PATERSON)**
