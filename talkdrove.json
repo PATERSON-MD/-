@@ -1,37 +1,52 @@
-
 {
-  "bot-name": "DELTA-MD-V1",
-  "description": "ᴊᴀᴠᴀsᴄʀɪᴘᴛ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ SIR FRONTIER",
-  "logo": "https://files.catbox.moe/6nylub.jpg",
-  "keywords": ["bot"],
-  "documentation-link": "https://prince-session.onrender.com",
-  "owner-verification": "princemayel99@gmail.com",
+  "bot-name": "PATERSON",
+  "description": "WhatsApp Bot Created by Kervens AUBOURG",
+  "logo": "https://i.ibb.co/Mx4v92Dr/malvin-xd.jpg",
+  "keywords": ["whatsapp-bot", "automation", "nodejs"],
+  "documentation": "https://your-docs-url.com",
+  "support": "contact@yourdomain.com",
   
   "env": {
     "SESSION_ID": {
-      "description": "Put your SESSION_ID here. Make sure it starts with prince-md-",
-      "value": "",
-      "required": true
+      "description": "Your unique session identifier (should start with 'paterson-')",
+      "value": "paterson-",
+      "required": true,
+      "pattern": "^paterson-.+",
+      "secure": true
     },
     "PREFIX": {
-      "description": "Bot command prefix, (e.g, . , ! @ etc)",
+      "description": "Command prefix (single character recommended)",
       "value": ".",
-      "required": true
+      "required": true,
+      "validation": "^[!@#%^&*.,;:]{1}$"
     },
-"OWNER_NAME": {
-      "description": "Type Bot Owner Name( your name).",
-      "required": false,
-      "value": "FRONTIER SIR"
-}, 
+    "OWNER_NAME": {
+      "description": "Bot maintainer's name",
+      "value": "Kervens AUBOURG",
+      "required": false
+    },
     "OWNER_NUMBER": {
-      "description": "put the owner number for bot(you number eg 263788521064).",
-      "required": false,
-      "value": "263788521064"
-    }, 
+      "description": "Owner's WhatsApp number (with country code)",
+      "value": "50942737567",
+      "required": true,
+      "validation": "^\\d{8,15}$"
+    },
     "MODE": {
-      "description": "Bot mode can be public or private,  (in lowercase) (e.g., public)",
+      "description": "Bot accessibility mode",
       "value": "private",
-      "required": true
+      "required": true,
+      "options": ["private", "public", "group-only"]
+    },
+    "SECURITY_KEY": {
+      "description": "Encryption key for sensitive data",
+      "required": true,
+      "secure": true,
+      "generator": "uuidv4"
     }
+  },
+  "meta": {
+    "version": "2.0.0",
+    "license": "MIT",
+    "repository": "https://github.com/PATERSON-MD/PATERSON"
   }
 }
