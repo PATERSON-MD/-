@@ -49,7 +49,7 @@ Generate your session ID for deployment:
 
 Stay updated by joining our official WhatsApp channel:
 
-[Join WhatsApp Channel](https://whatsapp.com/channel/0029VbABN6947Xe9PIApgG47)
+[Join WhatsApp Channel](https://whatsapp.com/channel/0029Vb6KikfLdQefJursHm20)
 
 ## 🙏 Thank You!
 
